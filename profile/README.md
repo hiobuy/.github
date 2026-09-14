@@ -59,6 +59,22 @@ A Next.js reference implementation for discovering available shipping channels a
 
 ---
 
+### [Package Tracking](https://github.com/hiobuy/tracking-demo)
+
+A Next.js reference implementation for retrieving normalized shipment status and tracking events with the HioBuy Fulfillment API.
+
+- Logistics, warehouse order, and client order number lookup
+- Normalized shipment status
+- Tracking event timeline
+- Shareable tracking result URLs
+- Server-side API key handling
+- Built-in demo data
+- Cloudflare deployment
+
+**[View Source](https://github.com/hiobuy/tracking-demo)** · **[Live Demo](https://tracking.demo.hiobuy.com)**
+
+---
+
 ### [Claude for Commerce Examples](https://github.com/hiobuy/claude-for-commerce-examples)
 
 China sourcing examples for Anthropic commerce agents, powered by the HioBuy Agent API and MCP.
@@ -109,9 +125,10 @@ Current HioBuy developer examples include:
 - **[Starter](https://github.com/hiobuy/starter)** — Build a product discovery storefront with HioBuy Product APIs.
 - **[AI Product Finder](https://github.com/hiobuy/ai-product-finder)** — Build a conversational AI sourcing experience with the HioBuy Agent API.
 - **[Shipping Quotes](https://github.com/hiobuy/shipping-quotes)** — Discover shipping channels and estimate international shipping costs.
+- **[Package Tracking](https://github.com/hiobuy/tracking-demo)** — Retrieve normalized shipment status and tracking events.
 - **[Claude for Commerce Examples](https://github.com/hiobuy/claude-for-commerce-examples)** — Build China sourcing workflows for Anthropic commerce agents using HioBuy Agent API and MCP.
 
-More developer examples are coming, including shipment lifecycle, tracking, bots, agents, and commerce integrations.
+More developer examples are coming, including shipment lifecycle, bots, agents, and commerce integrations.
 
 ## 🔗 Developer Resources
 
@@ -122,10 +139,12 @@ More developer examples are coming, including shipment lifecycle, tracking, bots
 - **HioBuy Starter:** https://github.com/hiobuy/starter
 - **AI Product Finder:** https://github.com/hiobuy/ai-product-finder
 - **Shipping Quotes:** https://github.com/hiobuy/shipping-quotes
+- **Package Tracking:** https://github.com/hiobuy/tracking-demo
 - **Claude for Commerce Examples:** https://github.com/hiobuy/claude-for-commerce-examples
 - **Starter Demo:** https://starter.demo.hiobuy.com
 - **AI Product Finder Demo:** https://ai-product-finder.demo.hiobuy.com
 - **Shipping Quotes Demo:** https://shipping-quotes.demo.hiobuy.com
+- **Package Tracking Demo:** https://tracking.demo.hiobuy.com
 - **Support:** [support@hiobuy.com](mailto:support@hiobuy.com)
 
 ---
