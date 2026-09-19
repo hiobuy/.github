@@ -132,8 +132,8 @@ More developer examples are coming, including shipment lifecycle, bots, agents, 
 
 ## 🔗 Developer Resources
 
-- **Developer Center:** https://developers.hiobuy.com
-- **API Documentation:** https://hiobuy.com/api-docs
+- **Developer Center:** https://developers.hiobuy.com/en
+- **API Documentation:** https://hiobuy.com/en/api-docs
 - **Agent API:** https://hiobuy.com/en/api-docs/agent-api
 - **OpenAPI:** https://api.hiobuy.com/openapi.json
 - **HioBuy Starter:** https://github.com/hiobuy/starter
